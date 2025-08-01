@@ -41,7 +41,7 @@
   "bugs": {
     "url": "https://github.com/astradevio/astra-form-builder-dist/issues"
   },
-  "homepage": "https://github.com/astradevio/astra-form-builder-dist#readme"
+  "homepage": "https://github.com/astradevio/astra-form-builder-dist#readme",
   "engines": {
     "node": ">=14.0.0"
   },

@@ -1,6 +1,6 @@
 # AstraFormBuilder – GitHub Distribution Package
 
-🚀 **Ready-to-use** compiled and **minified** version of **Astra Form Builder v0.1.4**, a modern and extensible drag-and-drop form builder developed by **Astra Dev** in pure TypeScript.
+🚀 **Ready-to-use** compiled and **minified** version of **Astra Form Builder v0.1.5**, a modern and extensible drag-and-drop form builder developed by **Astra Dev** in pure TypeScript.
 
 ⚠️ **PRIVATE PACKAGE** – Currently under active development and distributed via GitHub Package Registry.
 
@@ -166,7 +166,7 @@ MIT License – see the [LICENSE](./LICENSE.md) file for details.
 
 ---
 
-**Version**: 0.1.4 – MVP  
+**Version**: 0.1.5 – MVP  
 **Platform**: GitHub  
 **Status**: 🔒 Private Distribution  
 **Last updated**: 2025-08-01

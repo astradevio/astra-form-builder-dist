@@ -1,0 +1,52 @@
+{
+  "name": "@astradevio/astra-form-builder",
+  "version": "0.1.4",
+  "description": "AstraFormBuilder – A powerful and extensible drag-and-drop form builder with JSON export. Developed by Astra Dev. Available on GitHub and as an npm package.",
+  "main": "astra-form-builder.bundle.min.js",
+  "module": "astra-form-builder.esm.js",
+  "types": "main.d.ts",
+  "type": "module",
+  "files": [
+    "*.js",
+    "*.css",
+    "*.d.ts",
+    "README.md",
+    "LICENSE.md"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/astradevio/astra-form-builder-dist/astra-form-builder-dist.git"
+  },
+  "keywords": [
+    "astra-form-builder",
+    "form-builder",
+    "drag-drop",
+    "typescript",
+    "html5",
+    "css3",
+    "javascript",
+    "form-generator",
+    "ui-components",
+    "frontend",
+    "web-components",
+    "responsive-design",
+    "github"
+  ],
+  "author": "Astra Dev <dev@astradev.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/astradevio/astra-form-builder-dist/astra-form-builder-dist/issues"
+  },
+  "homepage": "https://github.com/astradevio/astra-form-builder-dist/astra-form-builder-dist#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

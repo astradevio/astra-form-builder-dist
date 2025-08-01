@@ -14,11 +14,12 @@
     "LICENSE.md"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com",
+    "access": "restricted"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/astradevio/astra-form-builder-dist/astra-form-builder-dist.git"
+    "url": "https://github.com/astradevio/astra-form-builder-dist.git"
   },
   "keywords": [
     "astra-form-builder",
@@ -38,9 +39,9 @@
   "author": "Astra Dev <dev@astradev.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/astradevio/astra-form-builder-dist/astra-form-builder-dist/issues"
+    "url": "https://github.com/astradevio/astra-form-builder-dist/issues"
   },
-  "homepage": "https://github.com/astradevio/astra-form-builder-dist/astra-form-builder-dist#readme",
+  "homepage": "https://github.com/astradevio/astra-form-builder-dist#readme"
   "engines": {
     "node": ">=14.0.0"
   },

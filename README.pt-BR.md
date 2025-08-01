@@ -1,6 +1,6 @@
 # AstraFormBuilder – Pacote de Distribuição GitHub
 
-🚀 Versão **pronta para uso**, compilada e **minificada** do **Astra Form Builder v0.1.6**, um construtor de formulários moderno e extensível com suporte a arrastar-e-soltar, desenvolvido pela **Astra Dev** em TypeScript puro.
+🚀 Versão **pronta para uso**, compilada e **minificada** do **Astra Form Builder v0.1.7**, um construtor de formulários moderno e extensível com suporte a arrastar-e-soltar, desenvolvido pela **Astra Dev** em TypeScript puro.
 
 ⚠️ **PACOTE PRIVADO** – Atualmente em desenvolvimento ativo e distribuído via GitHub Package Registry.
 
@@ -166,7 +166,7 @@ Licença MIT – veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
 ---
 
-**Versão**: 0.1.6 – MVP  
+**Versão**: 0.1.7 – MVP  
 **Plataforma**: GitHub  
 **Status**: 🔒 Distribuição Privada  
 **Última atualização**: 2025-08-01

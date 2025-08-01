@@ -1,6 +1,6 @@
 # AstraFormBuilder – GitHub Distribution Package
 
-🚀 **Ready-to-use** compiled and **minified** version of **Astra Form Builder v0.1.5**, a modern and extensible drag-and-drop form builder developed by **Astra Dev** in pure TypeScript.
+🚀 **Ready-to-use** compiled and **minified** version of **Astra Form Builder v0.1.6**, a modern and extensible drag-and-drop form builder developed by **Astra Dev** in pure TypeScript.
 
 ⚠️ **PRIVATE PACKAGE** – Currently under active development and distributed via GitHub Package Registry.
 
@@ -126,11 +126,11 @@ npm login --scope=@astradevio --registry=https://npm.pkg.github.com
 
 ## 🔗 Links
 
-- 🏠 **Main Repository**: [https://github.com/astradevio/astra-form-builder](https://github.com/astradevio/astra-form-builder)
+- 🏠 **Main Repository**: Reserved
 - 📦 **GitHub Distribution**: [https://github.com/astradevio/astra-form-builder-dist](https://github.com/astradevio/astra-form-builder-dist)
 - 🌍 **NPM Registry (Public)**: [npmjs.com/package/@astradevio/astra-form-builder](https://www.npmjs.com/package/@astradevio/astra-form-builder)
 - 📦 **Direct Git**: `npm install git+https://github.com/astradevio/astra-form-builder-dist-github.git`
-- ❗ **Issues**: [Bug Tracker](https://github.com/astradevio/astra-form-builder/issues)
+- ❗ **Issues**: [Bug Tracker](https://github.com/astradevio/astra-form-builder-dist/issues)
 - 🧪 **GitHub Package**: [`@astradevio/astra-form-builder`](https://github.com/astradevio/astra-form-builder/packages)
 
 ### 🌍 Available Distributions
@@ -166,7 +166,7 @@ MIT License – see the [LICENSE](./LICENSE.md) file for details.
 
 ---
 
-**Version**: 0.1.5 – MVP  
+**Version**: 0.1.6 – MVP  
 **Platform**: GitHub  
 **Status**: 🔒 Private Distribution  
 **Last updated**: 2025-08-01

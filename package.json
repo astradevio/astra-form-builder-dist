@@ -1,6 +1,6 @@
 {
   "name": "@astradevio/astra-form-builder",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "AstraFormBuilder – A powerful and extensible drag-and-drop form builder with JSON export. Developed by Astra Dev. Available on GitHub and as an npm package.",
   "main": "astra-form-builder.bundle.min.js",
   "module": "astra-form-builder.esm.js",

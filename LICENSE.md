@@ -46,7 +46,7 @@ PROGRAMAS.
 
 ---
 
-**Generated on**: 2025-08-01
-**Version**: 0.1.7
+**Generated on**: 2025-08-02
+**Version**: 0.2.0
 **Platform**: GitHub
 **Repository**: https://github.com/astradevio/astra-form-builder-dist/astra-form-builder
